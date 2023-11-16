@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on cool software stuff with [@Schulich Racing](https://github.com/Schulich-Racing)
+- 🌱 I’m currently learning Vulkan Computer Graphics Programming with Vulkan API
+
+### Past Experiences
+
+- Software Developer Intern [@Pason Systems Corp.](https://www.pason.com)
+- Back-end Developer [@Tech Start UCalgary](https://github.com/techstartucalgary)
+- UX/UI Intern [@Bessie](https://bessiebox.com)
+
 <!--
 **nuhashaikh/nuhashaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
