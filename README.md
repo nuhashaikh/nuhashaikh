@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on cool software stuff with [@Schulich Racing](https://github.com/Schulich-Racing)
-- 🌱 I’m currently learning Vulkan Computer Graphics Programming with Vulkan API
+- 🌱 I’m currently learning Computer Graphics Programming with Vulkan API
 
 ### Past Experiences
 
