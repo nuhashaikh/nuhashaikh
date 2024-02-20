@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cool software stuff with [@Schulich Racing]([https://github.com/Schulich-Racing](https://github.com/UCalgaryRacing))
+- 🔭 I’m currently working on cool software stuff with [@Schulich Racing](https://github.com/UCalgaryRacing)]
 - 🌱 I’m currently learning Computer Graphics Programming with Vulkan API and learning the basics of Computer Security
 
 ### Past Experiences
