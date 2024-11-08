@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cool software stuff with [@Schulich Racing](https://github.com/UCalgaryRacing)
-- 🌱 I’m currently learning Computer Graphics Programming with Vulkan API and learning the basics of Computer Security
-
-### Past Experiences
-
-- Software Developer Intern [@Pason Systems Corp.](https://www.pason.com)
-- Back-end Developer [@Tech Start UCalgary](https://github.com/techstartucalgary)
-- UX/UI Intern [@Bessie](https://bessiebox.com)
-
-<!--### Hi there 👋
-
 I'm Nuha Shaikh, a software engineer with a passion for building impactful and scalable solutions. I enjoy working across different tech stacks and diving into new challenges!
 
 - 🔭 **Currently:** Software Developer at [Pason Systems](https://www.pason.com) and contributing to cool software projects with [@Schulich Racing](https://github.com/UCalgaryRacing).
@@ -33,20 +22,6 @@ I'm Nuha Shaikh, a software engineer with a passion for building impactful and s
 ---
 
 <!--
-**nuhashaikh/nuhashaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 **nuhashaikh/nuhashaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
