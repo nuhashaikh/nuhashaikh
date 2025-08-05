@@ -2,21 +2,21 @@
 
 I'm Nuha Shaikh, a software engineer with a passion for building impactful and scalable solutions. I enjoy working across different tech stacks and diving into new challenges!
 
-- 🔭 **Currently:** Software Developer at [Pason Systems](https://www.pason.com) and contributing to cool software projects with [@Schulich Racing](https://github.com/UCalgaryRacing).
-- 🌱 **Learning:** Exploring Computer Graphics Programming with Vulkan API and diving into the basics of Computer Security.
-- 💬 **Ask me about:** Full-stack development, machine learning projects, and building reliable systems.
+- 🔭 **Currently:** Software Developer at [Clio](https://www.clio.com), helping build legaltech that transforms the legal experience for all.
+- 🌱 **Learning:** Exploring system design, DevOps workflows, and advanced frontend architecture!
+- 💬 **Ask me about:** Full-stack development, designing scalable systems, or navigating early tech careers!
 
 ### 💼 Past Experiences
 
-- Software Developer Intern [@Pason Systems Corp.](https://www.pason.com)
+- Full Stack Developer [@Pason Systems Corp.](https://www.pason.com)
 - ML Specialist (Capstone Project sponsored by Tesla) [@University of Calgary](https://www.ucalgary.ca)
 - Back-end Developer [@Tech Start UCalgary](https://github.com/techstartucalgary)
 - UX/UI Research Intern [@Bessie](https://bessiebox.com)
 
 ### 🌐 Connect with me:
 
-- [LinkedIn](#)
-- [GitHub](#)
+- [LinkedIn](https://www.linkedin.com/in/nuha-shaikh/) <!-- Replace with your actual link -->
+- [GitHub](https://github.com/nuhashaikh)
 - 📫 **How to reach me:** nuha.shaikh@gmail.com
 
 ---
